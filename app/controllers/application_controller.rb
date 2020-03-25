@@ -4,4 +4,5 @@ class ApplicationController < ActionController::Base
   
   add_flash_types :success, :info, :warning, :danger
   #test
+  #test2
 end
